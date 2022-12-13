@@ -1,0 +1,15 @@
+basic meshName friendlyName position(x,y,z) rotation(x,y,z) scale
+advanced meshName friendlyName bUse_RGBA_colour(1/0) RGBA_Colour(vec4) isWireFrame(1/0) scale bDoNotLight(1/0)
+basic Flat Ground 0 0 0 0 0 0 1
+basic Flat Wall 0 0 0 0 0 0 1
+basic Cone Cone1 0 0 0 0 0 0 1
+basic Cube Cube1 0 0 0 0 0 0 1
+basic Target Target1 50 0 0 0 0 0 3
+basic Target Target2 0 50 0 0 0 0 3
+basic Target Target3 0 0 0 0 0 0 3
+basic Target Target4 50 50 0 0 0 0 3
+basic Target Target5 -50 0 0 0 0 0 3
+basic Cone 2da 0 0 0 0 0 0 1
+basic Cube Cube2 0 0 0 0 0 0 1
+basic Cone Cone3 0 0 0 0 0 0 1
+basic Cube Cube3 0 0 0 0 0 0 1
